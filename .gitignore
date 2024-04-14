@@ -1,0 +1,9 @@
+.env
+.ligo
+_ligo
+ligo.esy.lock
+
+compiled
+/node_modules
+package.json
+.env
